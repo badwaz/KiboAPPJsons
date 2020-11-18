@@ -1,0 +1,9 @@
+{
+   "X-Cloud-Trace-Context": "e1af1158a9d4f146163dc6ba296b281c/16454175065926093732",
+   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+   "Upgrade-Insecure-Requests": "1",
+   "traceparent": "00-e1af1158a9d4f146163dc6ba296b281c-e458f90b649d4ba4-00",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
+   "Host": "headers.jsontest.com",
+   "Accept-Language": "es-ES,es;q=0.9"
+}
